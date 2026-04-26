@@ -1,5 +1,29 @@
 # Strategic Finance Report on Incremental Compute, Product, and GTM Allocation
 
+## 0. TLDR
+
+The executive answer is to put the next scarce dollar where usage is both sticky and metered: core API production traffic, Enterprise seats with credit pools, Business seats that expand into advanced credits, and Codex or agentic workloads sold on usage-aligned pricing. Consumer Plus remains strategically important and economically acceptable, but free-tier expansion and flat-priced Pro-heavy usage should be guarded by strict compute controls.
+
+Key findings:
+
+| Finding | Executive read-through |
+|---|---|
+| Enterprise and API are the highest-quality growth engines | They combine retention, expansion, pricing power, and better revenue per compute dollar than consumer-heavy or free-tier usage |
+| Codex and agentic workflows deserve more capacity, product focus, and GTM support | Demand is scaling quickly, but the economics work best when usage is metered or hybrid-priced rather than bundled broadly |
+| The biggest margin lever is routing and pricing discipline, not demand generation | Mini-model routing, Batch/Flex adoption, credit UX, and workload observability can lift margin without suppressing demand |
+| Consumer is still valuable, but it should not absorb the next compute wave by default | Plus is a durable paid base; Pro and free-tier premium usage need thresholds, credits, and abuse controls |
+| Base-case next-twelve-month economics can improve materially | The model reaches $35.2B ARR, $17.8B contribution, and 50% contribution margin if enterprise/API mix rises and monetization improves |
+
+Actionable executive moves:
+
+| Decision | Action now |
+|---|---|
+| Compute allocation | Bias 75% of incremental inference capacity toward metered enterprise/API traffic and 25% toward consumer paid reliability and conversion |
+| Product roadmap | Prioritize model routing, cost controls, credit infrastructure, enterprise workflow substrate, and admin ROI dashboards |
+| Packaging | Preserve broad access, but move the heaviest Pro, Business, Enterprise, Codex, and frontier-agentic usage toward explicit credits or overages |
+| GTM | Shift incremental spend toward partner-led deployment, customer success, and vertical solutions in finance, professional services, technology, healthcare, and manufacturing |
+| Finance operating cadence | Build a product-line P&L with per-feature serving cost, cohort LTV/CAC, compute ROI, and monthly allocation governance |
+
 ## Scope and assumptions
 
 This report uses only public signals and an explicit finance model because OpenAI does not publicly disclose product-line revenue, direct cost-to-serve, enterprise list pricing, or cohort-level churn. The highest-confidence public anchors are: more than 900 million weekly active users, more than 50 million consumer subscribers, more than 9 million paying business users, enterprise representing more than 40% of revenue, more than 15 billion API tokens processed per minute, and an ads pilot that crossed $100 million of annualized revenue within six weeks. Public reporting also put annualized revenue at roughly $25 billion as of end-February 2026, while company leadership described 2023–2025 revenue and compute scaling as moving roughly in lockstep. citeturn12view0turn12view1turn24view0turn25view0turn15view0
