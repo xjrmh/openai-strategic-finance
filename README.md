@@ -1,4 +1,14 @@
-# OpenAI Strategic Finance — Open Case
+# OpenAI Strategic Finance — Li's Note
+
+## Context
+
+I've been curious about how OpenAI is doing from a strategic-finance standpoint, so I posed myself a question:
+
+> **Where should OpenAI allocate the next dollar of compute, product, and GTM?**
+
+To answer it, I ran deep research with the help of AI on public signals (ARR, subscriber counts, token throughput, enterprise share, pricing, ads pilot), then built a strategic-finance analysis on top — product-line unit economics, cohort LTV/CAC, compute ROI by workload, pricing levers, and an NTM forecast with Monte Carlo. A few of the findings genuinely surprised me, and I'd love to share and discuss them if I get the chance.
+
+> **Disclaimer:** This is an *open case* — based entirely on **public data**, current as of **April 25, 2026**. No internal OpenAI data was used; all segment-level numbers are modeled, back-solved, or calibrated to public anchors. Conclusions may be wrong.
 
 ## TL;DR
 
